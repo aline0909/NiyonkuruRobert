@@ -3,7 +3,7 @@
 ## Name	Student RegNo
 ## NIYONKURU ROBERT	24RP05300
 ## SIWEMUBI ALINE	24RP04505
-📝 Project Description
+📝 Project Description.
 
 ## This project is a Java Swing Desktop Application designed to manage data efficiently in a chosen domain. It integrates JDBC for database connectivity, RegEx for data validation, and demonstrates clear Object-Oriented Programming (OOP) principles.
 
