@@ -1,4 +1,4 @@
-<img width="1625" height="955" alt="Screenshot 2025-12-14 215338" src="https://github.com/user-attachments/assets/f08c1be9-f214-46e9-9149-c442b1211889" />## 📚 Development of a Java Swing Desktop CRUD Application Using JDBC and OOP Principles
+## 📚 Development of a Java Swing Desktop CRUD Application Using JDBC and OOP Principles
 ## 👥 Group Members
 ## Name	Student RegNo
 ## NIYONKURU ROBERT	24RP05300
